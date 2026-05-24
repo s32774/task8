@@ -154,3 +154,8 @@ C:\Users\User\OneDrive\Desktop\task8\obj\Debug\net10.0\refint\task8.dll
 C:\Users\User\OneDrive\Desktop\task8\obj\Debug\net10.0\task8.pdb
 C:\Users\User\OneDrive\Desktop\task8\obj\Debug\net10.0\task8.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\task8\obj\Debug\net10.0\ref\task8.dll
+C:\Users\User\OneDrive\Desktop\task8\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\User\OneDrive\Desktop\task8\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\OneDrive\Desktop\task8\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\OneDrive\Desktop\task8\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\OneDrive\Desktop\task8\obj\Debug\net10.0\task8.MvcApplicationPartsAssemblyInfo.cs
